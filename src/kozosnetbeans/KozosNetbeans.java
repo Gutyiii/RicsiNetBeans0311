@@ -1,12 +1,13 @@
-
 package kozosnetbeans;
-
 
 public class KozosNetbeans {
 
-    
     public static void main(String[] args) {
-        String nev1="Gutyina András",nev2;
+
+        String nev1 = "Gutyina András";
+        String nev2;
+        String nev3;
+
     }
-    
+
 }
